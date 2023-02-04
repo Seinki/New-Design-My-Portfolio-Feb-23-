@@ -13,3 +13,7 @@ function myFunction() {
       moreText.style.display = "inline";
     }
   }
+
+function submitPesan() {
+  
+}

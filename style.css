@@ -267,3 +267,11 @@
   .form-control {
     background-color: white;
   }
+
+  /* .card-project:hover {
+    background-color: black;
+  } */
+
+#project1:hover, #project2:hover, #project3:hover {
+  color: darkgray;
+}
