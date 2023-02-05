@@ -275,3 +275,9 @@
 #project1:hover, #project2:hover, #project3:hover {
   color: darkgray;
 }
+
+.p-catatan {
+  text-decoration: none;
+  font-size: small;
+  color: grey;
+}
