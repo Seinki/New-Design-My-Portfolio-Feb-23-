@@ -14,6 +14,9 @@ function myFunction() {
     }
   }
 
-function submitPesan() {
-  
+function submitForm() {
+  const nama = document.querySelector('input[name="nama"]').value;
+  const email = document.querySelector('input[name="email"]').value;
+  // kirim data ke server melalui AJAX
+  // ...
 }
