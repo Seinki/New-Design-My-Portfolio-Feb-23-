@@ -13,6 +13,7 @@
     position: fixed;
     top: 0;
     z-index: 999;
+    font-size: 12px;
   }
   #home {
     padding-top: 120px;
@@ -31,6 +32,9 @@
     padding-top: 10px;
     padding-bottom: 20px;
   }
+  #blog {
+    padding-left: 8px;
+  }
   .img-home, .div-img-home {
     width: 100%;
     height: 50%;
@@ -40,6 +44,14 @@
     padding-top: 5px;
     padding-left: 10px;
     font-size: 18px;
+  }
+  .iframe-blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 350px;
+    padding-top: 20px;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -67,6 +79,9 @@
     padding-top: 10px;
     padding-bottom: 20px;
   }
+  #blog {
+    padding-left: 8px;
+  }
   .img-home, .div-img-home {
     width: 100%;
     height: 50%;
@@ -76,6 +91,14 @@
     padding-top: 5px;
     padding-left: 10px;
     font-size: 18px;
+  }
+  .iframe-blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 350px;
+    padding-top: 20px;
   }
 }
 
