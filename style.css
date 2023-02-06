@@ -1,17 +1,28 @@
-
-/* Header */
-.fixed-element {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
+*, html, body {
+  margin: 0;
+  padding: 0;
 }
 
+/* responsive */
 @media only screen and (max-width: 768px) {
-  .fixed-element {
-    position: relative;
+  #navbars {
+    position: fixed;
+    top: 0;
+    z-index: 999;
   }
+  #home {
+    padding-top: 120px;
+  }
+  #about {
+    padding-top: 30px;
+  }
+  #project {
+    padding-top: 100px;
+  }
+  #contact {
+    padding-top: 50px;
+  }
+
   #card1 {
     padding-top: 10px;
     padding-bottom: 20px;
