@@ -12,7 +12,17 @@
   .fixed-element {
     position: relative;
   }
+  #card1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .h5-card {
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+  }
 }
+
 
 .bd-placeholder-img {
     font-size: 1.125rem;
