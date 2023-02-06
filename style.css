@@ -33,7 +33,7 @@
     padding-bottom: 20px;
   }
   #blog {
-    padding-left: 8px;
+    padding-right: 0px;
   }
   .img-home, .div-img-home {
     width: 100%;
@@ -49,9 +49,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
     padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -80,7 +81,7 @@
     padding-bottom: 20px;
   }
   #blog {
-    padding-left: 8px;
+    padding-left: 0px;
   }
   .img-home, .div-img-home {
     width: 100%;
@@ -96,8 +97,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
     padding-top: 20px;
   }
 }
