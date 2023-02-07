@@ -21,6 +21,27 @@
   #about {
     padding-top: 30px;
   }
+  #row-card {
+    padding-right: 30px;
+  }
+  #certificate-card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 10px 10px 10px;
+  }
+  #certificate-card2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+  }
+  #certificate-card3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 80px 10px;
+  }
   #project {
     padding-top: 100px;
   }
@@ -72,13 +93,33 @@
   #about {
     padding-top: 30px;
   }
+  #row-card {
+    padding-right: 25px;
+  }
+  #certificate-card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 10px 10px 10px;
+  }
+  #certificate-card2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+  }
+  #certificate-card3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 80px 10px;
+  }
   #project {
     padding-top: 100px;
   }
   #contact {
     padding-top: 50px;
   }
-
   #card1 {
     padding-top: 10px;
     padding-bottom: 20px;
