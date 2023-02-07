@@ -54,6 +54,9 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  .footer-seinki {
+    padding-left: 3px;
+  }
 }
 @media only screen and (max-width: 1000px) {
   /* #navbars {
@@ -100,6 +103,9 @@
     height: 300px;
     width: 300px;
     padding-top: 20px;
+  }
+  .footer-seinki {
+    padding-left: 3px;
   }
 }
 
