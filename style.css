@@ -26,6 +26,15 @@
   #home {
     padding-top: 120px;
   }
+  #seinki {
+    font-size: 26px;
+  } 
+  .desk-singkat, .text-about, .text-card, .text-card-exp {
+    /* text-align: center; */
+    font-size: 15px;
+    /* font-weight: normal; */
+    /* font-display: 5px; */
+  }
   #about {
     padding-top: 30px;
   }
