@@ -15,6 +15,14 @@
     z-index: 999;
     font-size: 12px;
   }
+  .img-navbar {
+    width: 70%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 85px;
+  }
   #home {
     padding-top: 120px;
   }
