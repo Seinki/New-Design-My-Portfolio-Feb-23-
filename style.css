@@ -54,8 +54,8 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .footer-seinki {
-    padding-left: 3px;
+  .footer-text {
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -104,8 +104,11 @@
     width: 300px;
     padding-top: 20px;
   }
-  .footer-seinki {
-    padding-left: 3px;
+  .footer-text {
+    font-size: 12px;
+  }
+  footer {
+    padding-bottom: 500px;
   }
 }
 
